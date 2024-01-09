@@ -1,4 +1,4 @@
-plymorh java serde compatible in java and csharp
+Polymorph json serde compatible in java and csharp
 
 Here are two projects, one java and one csharp with very similar structure and exact? similar behaviour.
 There is a runner, Programm.cs and Main.java, which will produce three json strings, line by line, on stdout.
